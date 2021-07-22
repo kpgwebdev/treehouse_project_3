@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0%;
+}
+
+header {
+    text-align: center;
+    padding: 1rem;
+    margin: 0px;
+    color: white;
+    background-color: #34384B;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+    border: 1px solid white;
+    border-radius: 1em;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    display:flex;
+    flex-wrap: wrap;
+    background-color:#48B9A6;
+    border: #48B9A6;
+    color: white;
+    padding: 1rem;
+}
